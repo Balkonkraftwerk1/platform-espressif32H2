@@ -50,7 +50,7 @@
       "version": "8.4.0+2021r2-patch5",
       "optionalVersions": ["12.2.0+20230208"]
     },
-  "toolchain-riscv32-esp": {
+   "toolchain-riscv32-esp": {
    "type": "tool",
    "version": "12.2.0+20230208"
     },
